@@ -164,11 +164,11 @@ export default function App() {
             className="flex items-center gap-3 cursor-pointer"
           >
             {/* Logo Gambar Bersih Tanpa Kotak */}
-            <img 
-              src="logoplnremove.png" 
-              alt="Logo PLN" 
-              className="h-10 w-auto object-contain" 
-            />
+<img 
+  src="/logoplnremove.png" 
+  alt="Logo PLN" 
+  className="h-10 w-auto object-contain" 
+/>
             <div>
               <h1 className="font-bold text-base sm:text-lg tracking-tight leading-none">
                 PT PLN ULP TULUNGAGUNG
